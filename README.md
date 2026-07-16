@@ -29,10 +29,9 @@ Full-stack developer with a focus on JavaScript, React, and Python. I build web 
 ---
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enter-001&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enter-001&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+![GitHub followers](https://img.shields.io/github/followers/enter-001?style=social)
+![GitHub stars](https://img.shields.io/github/stars/enter-001?style=social)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/enter-001?style=social)
 
 ---
 
