@@ -9,7 +9,7 @@
 I'm a full-stack developer who loves building things with JavaScript/Node.js and exploring the world of Machine Learning. I speak both **British English** and **Spanish** fluently, and I'm passionate about creating apps that make a difference.
 
 - 🔭 **Currently working on:** Full-stack applications with React & Node.js
-- 🌱 **Learning:** Advanced ML models & AI integration
+- 🌱 **Learning:**  ML models & AI integration
 - 👯 **Looking to collaborate on:** Open source projects, ML apps, and gaming communities
 - 💬 **Ask me about:** JavaScript, React, Node.js, Machine Learning, or gaming!
 - ⚡ **Fun fact:** I run a YouTube channel about video games alongside coding
@@ -25,8 +25,9 @@ I'm a full-stack developer who loves building things with JavaScript/Node.js and
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### ML & Data
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Microsoft-Azure-%23F06A6A?style=flat&logo=Azure&logoColor=%233499FE&logoSize=auto)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
 
 
 ### Tools & Platforms
