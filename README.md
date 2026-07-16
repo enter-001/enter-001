@@ -51,7 +51,7 @@ I'm a full-stack developer who loves building things with JavaScript/Node.js and
 
 - 📦 **7+ public repositories** - Check them out below!
 - 🎮 **Discord Community Manager** - Building and moderating gaming communities
-- 🎥 **YouTube Creator** - Sharing gaming content and occasionally dev vlogs
+- 🎥 **YouTube Creator** - Sharing gaming content 
 - 🌍 **Bilingual** - Fluent in English (🇬🇧) and Spanish (🇪🇸)
 
 ---
@@ -60,18 +60,17 @@ I'm a full-stack developer who loves building things with JavaScript/Node.js and
 
 I run a YouTube channel where I create video game content. When I'm not coding, you'll find me:
 - 🕹️ Playing and reviewing games
-- 🎬 Editing gameplay videos
-- 👥 Managing Discord communities
-- 🏆 Participating in gaming events
+- 🎬 Editing gameplay videos : ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCl5dtq2GJQtm4jFnROt6BhQ)
+- 👥 Managing Discord communities : ![Discord](https://img.shields.io/discord/656425847649075220?logo=discord&logoColor=%235865F2&color=white)
+
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/c/yourchannel)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/yourserver)
+
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@enter001)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/KGfdNFq3QN)
 
 ---
 
@@ -86,4 +85,4 @@ Here are some of my notable contributions:
 
 ---
 
-> 💡 *"Code is poetry, and games are art"* - [Your Name]
+> 💡 *""* - [Your Name]
