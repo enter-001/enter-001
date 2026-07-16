@@ -1,12 +1,11 @@
 # 👋 Hi, I'm enter001
-**Full Stack Developer** | **ML Enthusiast** | **Gamer & Content Creator**
----
+
 ## 🚀 About Me
-I'm a full-stack developer who loves building things with JavaScript/Node.js and exploring the world of Machine Learning. I speak both **British English** and **Spanish** fluently, and I'm passionate about creating apps that make a difference.
+Full-stack developer with a focus on JavaScript, React, and Python. I build web applications and explore Machine Learning on the side. Fluent in British English and Spanish, I enjoy bridging code and the physical world – whether that's debugging a backend or repairing hardware. I'm driven by curiosity and a love for solving problems "across digital and tangible domains".
 - 🔭 **Currently working on:** Full-stack applications with React & Node.js
 - 🌱 **Learning:**  ML models & AI integration
-- 👯 **Looking to collaborate on:** Open source projects, ML apps, and gaming communities
-- 💬 **Ask me about:** JavaScript, React, Node.js, Machine Learning, or gaming!
+- 👯 **Looking to collaborate on:** Open source projects or ML apps
+- 💬 **Ask me about:** JavaScript, React, Node.js, Machine Learning,Django or gaming!
 - ⚡ **Fun fact:** I run a YouTube channel about video games 
 ---
 ## 🛠️ Tech Stack
@@ -39,7 +38,7 @@ I'm a full-stack developer who loves building things with JavaScript/Node.js and
 
 ## 🏆 Contributions & Community
 
-- 📦 **7+ public repositories** - Check them out below!
+- 📦 **Own public repositories** - Check them out below!
 - 🎮 **Discord Community Manager** - Building and moderating gaming communities
 - 🎥 **YouTube Creator** - Sharing gaming content 
 - 🌍 **Bilingual** - Fluent in English (🇬🇧) and Spanish (🇪🇸)
@@ -51,7 +50,6 @@ I'm a full-stack developer who loves building things with JavaScript/Node.js and
 I run a YouTube channel where I create video game content. When I'm not coding, you'll find me:
 - 🎬 Editing gameplay videos : ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCl5dtq2GJQtm4jFnROt6BhQ)
 - 👥 Managing Discord communities : ![Discord](https://img.shields.io/discord/656425847649075220?logo=discord&logoColor=%235865F2&color=white)
-
 
 ---
 
@@ -66,11 +64,11 @@ I run a YouTube channel where I create video game content. When I'm not coding, 
 
 Here are some of my notable contributions:
 
-<!-- Add your 7 repo links here -->
-- **[Project 1]** - Brief description
-- **[Project 2]** - Brief description
-- **[Project 3]** - Brief description
+- **https://github.com/enter-001/MassiveMessage**
+- **https://github.com/gustavoam-asdf/social-responsibility**
+- **https://github.com/gustavoam-asdf/nacional-defense**
+- **https://github.com/enter-001/Rpg-JS**
 
 ---
 
-> 💡 *""* - [Your Name]
+> 💡 *"Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest."* - [Isaac Asimov]
