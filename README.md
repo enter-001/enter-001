@@ -1,7 +1,7 @@
 # 👋 Hi, I'm enter001
 
 ## 🚀 About Me
-Full-stack developer with a focus on JavaScript, React, and Python. I build web applications and explore Machine Learning on the side. Fluent in British English and Spanish, I enjoy bridging code and the physical world – whether that's debugging a backend or repairing hardware. I'm driven by curiosity and a love for solving problems "across digital and tangible domains".
+Full-stack developer with a focus on JavaScript, React, and Python. I build web applications and explore Machine Learning on the side. Fluent in British English and Spanish, I enjoy bridging code with the physical world – whether that's debugging a backend or repairing hardware. I'm driven by curiosity and a love for solving problems "across digital and tangible domains".
 - 🔭 **Currently working on:** Full-stack applications with React & Node.js
 - 🌱 **Learning:**  ML models & AI integration
 - 👯 **Looking to collaborate on:** Open source projects or ML projects
