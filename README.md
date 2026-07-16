@@ -22,10 +22,23 @@ Full-stack developer with a focus on JavaScript, React, and Python. I build web 
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Material%20UI-%23007FFF?style=flat&logo=mui&logoColor=%23007FFF&labelColor=white&color=%23007FFF)
+![Prisma](https://img.shields.io/badge/prisma-%232D3748?style=flat&logo=prisma&logoColor=%232D3748&color=white)
+![Next.js](https://img.shields.io/badge/next.js-%23000000?style=flat&logo=nextdotjs&logoColor=%23000000&color=white)
+![Django](https://img.shields.io/badge/django-%23092E20?style=flat&logo=django&logoColor=%23092E20&color=white)
+![commitlint](https://img.shields.io/badge/commitlint-%23000000?style=flat&logo=commitlint&logoColor=%23000000&color=white)
+![zod](https://img.shields.io/badge/zod-%23408AFF?style=flat&logo=zod&logoColor=%23408AFF&color=black)
+
+
+![betterauth](https://img.shields.io/badge/betterauth-%23FFFFFF?style=flat&logo=betterauth&logoColor=%23FFFFFF&color=black)
+![Vercel](https://img.shields.io/badge/vercel-%23000000?style=flat&logo=vercel&logoColor=%23000000&color=white)
+![Resend](https://img.shields.io/badge/Resend-%23007FFF?style=flat&logo=resend&logoColor=%23000000&labelColor=white&color=%23007FFF)
+![Mui](https://img.shields.io/badge/Material%20UI-%23007FFF?style=flat&logo=mui&logoColor=%23007FFF&labelColor=white&color=%23007FFF)
 ![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat&logo=asana&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![cisco](https://img.shields.io/badge/cisco-%23007FFF?style=flat&logo=cisco&logoColor=%231BA0D7&color=white)
+![freecodecamp](https://img.shields.io/badge/freecodecamp-%23007FFF?style=flat&logo=freecodecamp&logoColor=%230A0A23&labelColor=white&color=%233B80AE)
+
 
 ---
 ## 📊 GitHub Stats
