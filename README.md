@@ -4,7 +4,7 @@
 Full-stack developer with a focus on JavaScript, React, and Python. I build web applications and explore Machine Learning on the side. Fluent in British English and Spanish, I enjoy bridging code and the physical world – whether that's debugging a backend or repairing hardware. I'm driven by curiosity and a love for solving problems "across digital and tangible domains".
 - 🔭 **Currently working on:** Full-stack applications with React & Node.js
 - 🌱 **Learning:**  ML models & AI integration
-- 👯 **Looking to collaborate on:** Open source projects or ML apps
+- 👯 **Looking to collaborate on:** Open source projects or ML projects
 - 💬 **Ask me about:** JavaScript, React, Node.js, Machine Learning,Django or gaming!
 - ⚡ **Fun fact:** I run a YouTube channel about video games 
 ---
@@ -33,10 +33,11 @@ Full-stack developer with a focus on JavaScript, React, and Python. I build web 
 ![GitHub stars](https://img.shields.io/github/stars/enter-001?style=social)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/enter-001?style=social)
 
+
 ---
 
 ## 🏆 Contributions & Community
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enter-001&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 - 📦 **Own public repositories** - Check them out below!
 - 🎮 **Discord Community Manager** - Building and moderating gaming communities
 - 🎥 **YouTube Creator** - Sharing gaming content 
