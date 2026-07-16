@@ -7,7 +7,7 @@ I'm a full-stack developer who loves building things with JavaScript/Node.js and
 - 🌱 **Learning:**  ML models & AI integration
 - 👯 **Looking to collaborate on:** Open source projects, ML apps, and gaming communities
 - 💬 **Ask me about:** JavaScript, React, Node.js, Machine Learning, or gaming!
-- ⚡ **Fun fact:** I run a YouTube channel about video games alongside coding
+- ⚡ **Fun fact:** I run a YouTube channel about video games 
 ---
 ## 🛠️ Tech Stack
 
@@ -49,7 +49,6 @@ I'm a full-stack developer who loves building things with JavaScript/Node.js and
 ## 🎮 Gaming & Content Creation
 
 I run a YouTube channel where I create video game content. When I'm not coding, you'll find me:
-- 🕹️ Playing and reviewing games
 - 🎬 Editing gameplay videos : ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCl5dtq2GJQtm4jFnROt6BhQ)
 - 👥 Managing Discord communities : ![Discord](https://img.shields.io/discord/656425847649075220?logo=discord&logoColor=%235865F2&color=white)
 
