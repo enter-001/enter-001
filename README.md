@@ -24,6 +24,7 @@ Full-stack developer with a focus on JavaScript, React, and Python. I build web 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Material%20UI-%23007FFF?style=flat&logo=mui&logoColor=%23007FFF&labelColor=white&color=%23007FFF)
 ![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat&logo=asana&logoColor=white)
 
 ---
@@ -32,7 +33,6 @@ Full-stack developer with a focus on JavaScript, React, and Python. I build web 
 ![GitHub followers](https://img.shields.io/github/followers/enter-001?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/enter-001?style=social)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/enter-001?style=social)
-
 
 ---
 
