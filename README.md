@@ -50,7 +50,6 @@ Full-stack developer with a focus on JavaScript, React, and Python. I build web 
 ---
 
 ## 🏆 Contributions & Community
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enter-001&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 - 📦 **Own public repositories** - Check them out below!
 - 🎮 **Discord Community Manager** - Building and moderating gaming communities
 - 🎥 **YouTube Creator** - Sharing gaming content 
@@ -61,7 +60,7 @@ Full-stack developer with a focus on JavaScript, React, and Python. I build web 
 ## 🎮 Gaming & Content Creation
 
 I run a YouTube channel where I create video game content. When I'm not coding, you'll find me:
-- 🎬 Editing gameplay videos : ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCl5dtq2GJQtm4jFnROt6BhQ)
+- 🎬 Editing gameplay videos : [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@enter001)
 - 👥 Managing Discord communities : ![Discord](https://img.shields.io/discord/656425847649075220?logo=discord&logoColor=%235865F2&color=white)
 
 ---
