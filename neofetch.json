@@ -4,7 +4,7 @@
       "title": "{{username}}@github",
       "fields": [
         { "key": "Name", "value": "{{name}}" },
-        { "key": "Location", "value": "{{location}} `Perú`" },
+        { "key": "Location", "value": "{{location}} Perú" },
         { "key": "Created", "value": "{{created}}" },
         { "key": "Uptime", "value": "{{uptime}}" },
         { "key": "Company", "value": "{{company}}" }
@@ -12,9 +12,9 @@
     },
     {
       "fields": [
-        { "key": "Languages", "value": "{{languages}}" },
+        { "key": "Languages", "value": "{{languages}} · JS/React/Python" },
         { "key": "IDE", "value": "VSCode" },
-        { "key": "Bio", "value": "Full-stack dev · JS/React/Python · ML explorer · EN/ES" }
+        { "key": "Bio", "value": "Full-stack dev ·  ML explorer · EN/ES" }
       ]
     },
     {
