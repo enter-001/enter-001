@@ -12,7 +12,7 @@
     },
     {
       "fields": [
-        { "key": "Languages", "value": "{{languages}}  · React · Python" },
+        { "key": "Languages", "value": "{{languages}}  , React , Python" },
         { "key": "IDE", "value": "VSCode  · VSCodium" },
         { "key": "Bio", "value": "Full-stack dev · ML explorer · EN/ES" }
       ]
