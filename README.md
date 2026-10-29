@@ -1,4 +1,5 @@
-![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=enter-001&theme=dark)
+![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=enter-001&theme=dark&&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjeantimex%2Fneofetch-profile%2Fmain%2Fpublic%2Fconfig.json
+)
 # 👋 Hi, I'm enter001
 
 ## 🚀 About Me
