@@ -12,16 +12,16 @@
     },
     {
       "fields": [
-        { "key": "Languages", "value": "{{languages}} · JS/React/Python" },
-        { "key": "IDE", "value": "VSCode" },
-        { "key": "Bio", "value": "Full-stack dev ·  ML explorer · EN/ES" }
+        { "key": "Languages", "value": "{{languages}}  · React · Python" },
+        { "key": "IDE", "value": "VSCode  · VSCodium" },
+        { "key": "Bio", "value": "Full-stack dev · ML explorer · EN/ES" }
       ]
     },
     {
       "title": "- Off the Clock",
       "fields": [
-        { "key": "Hobbies.Software", "value": "WebGL, WebGPU, AI/ML" },
-        { "key": "Hobbies.Hardware", "value": "Computer repairing , Hi-Fi design ,Buck converter" },
+        { "key": "Hobbies.Software", "value": "AI/ML· DevOps · FlStudio · Clipchamp  " },
+        { "key": "Hobbies.Hardware", "value": "Computer repairing · Hi-Fi design " },
         { "key": "Gaming", "value": "YouTube creator · Discord community manager" },
         { "key": "Currently", "value": "Full-stack apps with React & Node.js" }
       ]
