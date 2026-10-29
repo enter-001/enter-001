@@ -13,7 +13,7 @@
     {
       "fields": [
         { "key": "Languages", "value": "{{languages}}" },
-        { "key": "IDE", "value": "Cursor, VSCode, Neovim" }
+        { "key": "IDE", "value": "VSCode" }
       ]
     },
     {
