@@ -4,7 +4,7 @@
       "title": "{{username}}@github",
       "fields": [
         { "key": "Name", "value": "{{name}}" },
-        { "key": "Location", "value": "{{location}}" },
+        { "key": "Location", "value": "{{location}} Perú" },
         { "key": "Created", "value": "{{created}}" },
         { "key": "Uptime", "value": "{{uptime}}" },
         { "key": "Company", "value": "{{company}}" }
