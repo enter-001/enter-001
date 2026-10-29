@@ -10,7 +10,7 @@ Full-stack developer with a focus on JavaScript, React, and Python. I build web 
 - 🔭 **Currently working on:** Full-stack applications with React & Node.js
 - 🌱 **Learning:**  ML models & AI integration
 - 👯 **Looking to collaborate on:** Open source projects or ML projects
-- 💬 **Ask me about:** JavaScript, React, Node.js, Machine Learning,Django or gaming!
+- 💬 **Ask me about:** Development, Machine Learning, Computer Repair,Hi-Fi design or gaming!
 - ⚡ **Fun fact:** I run a YouTube channel about video games
 
 ---
