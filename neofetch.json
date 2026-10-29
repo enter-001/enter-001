@@ -14,7 +14,7 @@
       "fields": [
         { "key": "Languages", "value": "{{languages}}" },
         { "key": "IDE", "value": "VSCode" },
-         { "key": "Bio", "value": "{{bio}}" }
+        { "key": "{{bio}}", "value": "Here bio" }
       ]
     },
     {
