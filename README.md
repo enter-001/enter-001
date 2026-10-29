@@ -1,7 +1,7 @@
 
 # Hi, I'm enter001
 
-![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=enter-001&config=https%3A%2F%2Fraw.githubusercontent.com%2Fenter-001%2Fenter-001%2Fmain%2Fneofetch.json&v=6)
+![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=enter-001&config=https%3A%2F%2Fraw.githubusercontent.com%2Fenter-001%2Fenter-001%2Fmain%2Fneofetch.json&v=7)
 
 ## About Me
 
