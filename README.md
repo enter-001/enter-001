@@ -1,3 +1,4 @@
+![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=enter-001&theme=dark)
 # 👋 Hi, I'm enter001
 
 ## 🚀 About Me
